@@ -1,5 +1,5 @@
-# quotes
+## discord status
+TL;DR uses `requests` with Discord API v10. Also uses `notify-py` library to push desktop notifications whenever run (with some indication of success/failure). Shellscript offers compatibility with miniconda environments and works with crontab.
 
-some silly personal quote-rotating business
-
-git commit history contains discord token, so maybe don't make this public lol
+## gnome top bar
+TL;DR is a GNOME extension, closely modeled after some simple GNOME extensions one may find on the web.
