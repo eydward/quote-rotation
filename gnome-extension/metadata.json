@@ -1,8 +1,8 @@
 {
-    "name": "quotes",
-    "description": "displays quotes on the top menu bar",
-    "uuid": "edward.yu@outlook.com",
-    "shell-version": [
-        "42.9"
-    ]
+  "name": "quote rotator",
+  "description": "rotates quotes",
+  "uuid": "edward.yu@outlook.com",
+  "shell-version": [
+    "46"
+  ]
 }
